@@ -11,14 +11,14 @@
 - **Menu de Navegação**;
 - **Listas**;
 - **Links que redirecionam para conteúdos na mesma página**;
-- **Função: showContent**;
-- **tag <nav>**;
+- **showContent()**;
+- **tag '<nav>'**;
 - **Declaração de variável constante**;
-- **querySelector**;
+- **querySelector()**;
 - **.remove()**;
-- **.createElement**;
+- **.createElement()**;
 - **.className**;
-- **.appendChild**.
+- **.appendChild()**.
 
 # MAIS DETALHES DO MEU PROJETO:
                                                                                                         
