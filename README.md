@@ -63,4 +63,4 @@ O arquivo JavaScript adiciona a funcionalidade dinâmica ao site:
 - **Responsividade**: O layout ajusta-se automaticamente para diferentes tamanhos de tela, incluindo dispositivos móveis e tablets.
 
 ## Visualize a aplicação, através do Vercel:
-<https://dev-recem-nascido.vercel.app/#>
+[site: < Dev. Recém Nascido >](https://dev-recem-nascido.vercel.app/#)
