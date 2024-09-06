@@ -12,7 +12,7 @@
 - **Listas**;
 - **Links que redirecionam para conteúdos na mesma página**;
 - **showContent()**;
-- **tag '<nav>'**;
+- **tag: nav**;
 - **Declaração de variável constante**;
 - **querySelector()**;
 - **.remove()**;
