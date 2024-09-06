@@ -62,8 +62,5 @@ O arquivo JavaScript adiciona a funcionalidade dinâmica ao site:
 - **Menu Interativo**: Clique em qualquer item do menu para exibir o conteúdo relacionado.
 - **Responsividade**: O layout ajusta-se automaticamente para diferentes tamanhos de tela, incluindo dispositivos móveis e tablets.
 
-## Instalação
-
-1. Visualize a aplicação, através do Vercel:
-   ```bash
-   git clone https://github.com/seu-usuario/dev-recem-nascido.git
+## Visualize a aplicação, através do Vercel:
+<https://dev-recem-nascido.vercel.app/#>
