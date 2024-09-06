@@ -1,0 +1,194 @@
+/* Importa a fonte Chakra Petch do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+/* Estiliza o corpo da página */
+body {
+    /* Define a fonte padrão para a página */
+    font-family: "Chakra Petch", sans-serif;
+    /* Define a cor de fundo da página */
+    background-color: #161515;
+    /* Define a cor do texto */
+    color: #2f88ee;
+    /* Centraliza o texto horizontalmente */
+    text-align: center;
+    /* Remove as margens padrão */
+    margin: 0;
+    /* Remove o preenchimento padrão */
+    padding: 0;
+    /* Evita a barra de rolagem horizontal */
+    overflow-x: hidden;
+    /* Usa flexbox para layout, organizando os itens verticalmente */
+    display: flex;
+    flex-direction: column;
+    /* Garante que o conteúdo ocupe pelo menos a altura total da janela */
+    min-height: 100vh;
+}
+
+/* Define que o HTML e o body ocuparão 100% da altura da janela */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Estilização do header para centralizar os títulos e o menu */
+header {
+    /* Espaçamento entre o header e o menu */
+    margin-bottom: 10px;
+}
+
+/* Estilização do título principal (h1) */
+header h1 {
+    /* Define o tamanho da fonte */
+    font-size: 2.5em;
+    /* Define o peso da fonte */
+    font-weight: bold;
+    /* Define a cor do texto */
+    color: #00d412;
+    /* Define a cor de fundo */
+    background-color: #000000;
+    /* Adiciona bordas arredondadas */
+    border-radius: 15px;
+    /* Adiciona preenchimento interno */
+    padding: 10px;
+    /* Exibe o título como um bloco em linha */
+    display: inline-block;
+    /* Remove o espaçamento inferior */
+    margin-bottom: 0;
+}
+
+/* Estilização do subtítulo (h3) */
+header h3 {
+    /* Define a cor de fundo */
+    background-color: #3b3b3b;
+    /* Adiciona bordas arredondadas */
+    border-radius: 10px;
+    /* Adiciona preenchimento interno */
+    padding: 5px;
+    /* Exibe o subtítulo como um bloco em linha */
+    display: inline-block;
+    /* Remove o espaçamento inferior */
+    margin-bottom: 0;
+}
+
+/* Estilização do terceiro título (h5) */
+header h5 {
+    /* Define a cor de fundo */
+    background-color: #1a0061;
+    /* Adiciona bordas arredondadas */
+    border-radius: 10px;
+    /* Adiciona preenchimento interno */
+    padding: 5px;
+    /* Exibe o terceiro título como um bloco em linha */
+    display: inline-block;
+    /* Espaçamento entre o h5 e o menu */
+    margin-bottom: 0px;
+}
+
+/* Estilização da lista de navegação */
+nav ul {
+    /* Remove os marcadores padrão da lista */
+    list-style-type: none;
+    /* Remove o preenchimento padrão */
+    padding: 0;
+    /* Remove a margem padrão */
+    margin: 0;
+    /* Usa flexbox para layout, organizando os itens em coluna */
+    display: flex;
+    flex-direction: column;
+    /* Centraliza os itens do menu */
+    align-items: center;
+    /* Permite que o menu se expanda e empurre o rodapé para baixo */
+    flex: 1;
+    /* Aumenta a distância entre o menu e o rodapé */
+    margin-bottom: 25px;
+}
+
+/* Estilização dos itens da lista */
+nav ul li {
+    /* Espaçamento entre os itens da lista */
+    margin: 10px 0;
+}
+
+/* Estilização dos links da navegação */
+nav ul li a {
+    /* Define a cor do texto dos links */
+    color: #640ebb;
+    /* Remove o sublinhado padrão dos links */
+    text-decoration: none;
+    /* Define o peso da fonte */
+    font-weight: bold;
+}
+
+/* Efeito de hover (passar o mouse) nos links */
+nav ul li a:hover {
+    /* Adiciona sublinhado aos links quando o mouse passa sobre eles */
+    text-decoration: underline;
+}
+
+/* Estilização dos parágrafos de conteúdo que podem aparecer quando uma opção de menu for clicada */
+.content-paragraph {
+    /* Espaçamento superior dos parágrafos de conteúdo */
+    margin-top: 10px;
+    /* Define o tamanho da fonte */
+    font-size: 1em;
+    /* Define a cor do texto */
+    color: #e69501;
+}
+
+/* Estilização do rodapé */
+footer {
+    /* Define a cor de fundo do rodapé */
+    background-color: #3c3e3f;
+    /* Define a cor do texto no rodapé */
+    color: #ffffff;
+    /* Centraliza o texto no rodapé */
+    text-align: center;
+    /* Adiciona preenchimento interno */
+    padding: 10px 0;
+    /* Define a largura do rodapé para 100% da tela */
+    width: 100%;
+    /* Define o tamanho da fonte no rodapé */
+    font-size: 0.7rem;
+}
+
+/* Consultas de mídia para telas pequenas e dispositivos móveis */
+@media (max-width: 768px) {
+    /* Ajusta o tamanho dos títulos e parágrafos para telas menores */
+    header h1 {
+        font-size: 2em;
+        padding: 15px;
+    }
+
+    header h3, header h5 {
+        font-size: 1em;
+        padding: 8px;
+    }
+
+    /* Ajusta o tamanho dos links do menu para telas menores */
+    nav ul li a {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    /* Ajusta ainda mais os títulos e parágrafos para telas muito pequenas */
+    header h1 {
+        font-size: 1.5em;
+        padding: 10px;
+    }
+
+    header h3, header h5 {
+        font-size: 0.8em;
+        padding: 6px;
+    }
+
+    /* Ajusta o tamanho dos links do menu para telas muito pequenas */
+    nav ul li a {
+        font-size: 0.8em;
+    }
+
+    /* Remove margens extras para um layout mais compacto */
+    nav ul {
+        margin-bottom: 15px;
+    }
+}

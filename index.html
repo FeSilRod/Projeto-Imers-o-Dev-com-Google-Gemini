@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Definindo a codificação de caracteres da página para UTF-8 -->
+    <meta charset="UTF-8">
+    <!-- Configura a largura da página para ser igual à largura da tela do dispositivo, permitindo responsividade -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Define o título da página que aparecerá na aba do navegador -->
+    <title>Dev. Recém Nascido</title>
+    <!-- Link para o arquivo de estilos CSS externo -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho da página -->
+    <header>
+        <!-- Título principal da página -->
+        <h1>&lt; Dev. Recém Nascido &gt;</h1><br/>
+        <!-- Subtítulo explicativo -->
+        <h3>O seu guia para te (re)direcionar aos primeiros passos no desenvolvimento web!</h3><br/>
+        <!-- Terceiro título ou introdução para o menu -->
+        <h5>Clique em uma das opções abaixo e comece a aprender:</h5>
+    </header>
+    <!-- Menu de navegação -->
+    <nav>
+        <!-- Lista não ordenada de itens do menu -->
+        <ul id="menu">
+            <!-- Item do menu que ao ser clicado chama a função showContent com o ID correspondente -->
+            <li id="frontend_backend"><a href="#" onclick="showContent('frontend_backend')">Front End & Back End: O que é e qual a diferença?</a></li>
+            <li id="web_ide"><a href="#" onclick="showContent('web_ide')">Web e IDEs</a></li>
+            <li id="primeiros_passos"><a href="#" onclick="showContent('primeiros_passos')">Primeiros passos na Programação</a></li>
+            <li id="html_css_js"><a href="#" onclick="showContent('html_css_js')">HTML, CSS e JavaScript</a></li>
+            <li id="ferramentas"><a href="#" onclick="showContent('ferramentas')">Ferramentas e softwares para programar</a></li>
+            <li id="comunidades"><a href="#" onclick="showContent('comunidades')">Comunidades para tirar dúvidas sobre programação</a></li>
+            <li id="continuar_aprendendo"><a href="#" onclick="showContent('continuar_aprendendo')">Onde continuar aprendendo de graça</a></li>
+        </ul>
+    </nav>
+    <!-- Rodapé da página -->
+    <footer>
+        <!-- Mensagem em binário (texto codificado em binário) -->
+        <p>01001001 01101101 01100101 01110010 01110011 11100011 01101111 00100000 01000100 01100101 01110110 00100000 01100011 01101111 01101101 00100000 01000111 01100101 01101101 01101001 01101110 01101001</p>
+        <!-- Informação sobre direitos autorais -->
+        <p>2024 | Desafio Alura - Desenvolvimento Web com: HTML, CSS E JavaScript | Todos os direitos reservados©</p>
+    </footer>
+
+    <!-- Link para o arquivo JavaScript externo -->
+    <script src="script.js"></script>
+</body>
+</html>
