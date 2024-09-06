@@ -24,7 +24,7 @@
                                                                                                         
 # Objetivo do Projeto: Dev. Recém Nascido
 
-**Dev. Recém Nascido** é um projeto de desenvolvimento web que fornece uma introdução interativa para iniciantes no desenvolvimento web. O site é uma plataforma educacional básica que oferece informações sobre diversos tópicos importantes no início da jornada de programação.
+**Dev. Recém Nascido** é um projeto que fornece uma introdução interativa para iniciantes no desenvolvimento web. O site é uma plataforma educacional básica que oferece informações sobre diversos tópicos importantes no início da jornada de programação.
 
 Assim como o subtítulo do site sugere, o objetivo principal da aplicação é guiar de forma fácil e prática novos programadores aos melhores conteúdos e dicas educacionais, relacionados aos primeiros passos no mundo da programação e desenvolvimento web, com suas principais linguagens de programação, fazendo assim uma relação com a imersão dev com gemini e inclusive podendo ajudar outros alunos que participaram. Principalmente indicando fontes e cursos gratuitos, para promover a inclusão e acessibilidade, acabando com qualquer tipo de barreira finaceira que possa existir nesse início de carreira. Pelo menos, no que diz respeito à aprendizado online, de qualidade, com certificado e a custo zero, assim como a Alura vem fazendo através de suas espetaculares imersões gratuitas.
 
