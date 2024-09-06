@@ -22,9 +22,11 @@
 
 # MAIS DETALHES DO MEU PROJETO:
                                                                                                         
-# Site/aplicação: Dev. Recém Nascido
+# Objetivo do Projeto: Dev. Recém Nascido
 
 **Dev. Recém Nascido** é um projeto de desenvolvimento web que fornece uma introdução interativa para iniciantes no desenvolvimento web. O site é uma plataforma educacional básica que oferece informações sobre diversos tópicos importantes no início da jornada de programação.
+
+Assim como o subtítulo do site sugere, o objetivo principal da aplicação é guiar de forma fácil e prática novos programadores aos melhores conteúdos e dicas educacionais, relacionados aos primeiros passos no mundo da programação e desenvolvimento web, com suas principais linguagens de programação, fazendo assim uma relação com a imersão dev com gemini e inclusive podendo ajudar outros alunos que participaram. Principalmente indicando fontes e cursos gratuitos, para promover a inclusão e acessibilidade, acabando com qualquer tipo de barreira finaceira que possa existir nesse início de carreira. Pelo menos, no que diz respeito à aprendizado online, de qualidade, com certificado e a custo zero, assim como a Alura vem fazendo através de suas espetaculares imersões gratuitas.
 
 ## Estrutura do Projeto
 
@@ -63,4 +65,4 @@ O arquivo JavaScript adiciona a funcionalidade dinâmica ao site:
 - **Responsividade**: O layout ajusta-se automaticamente para diferentes tamanhos de tela, incluindo dispositivos móveis e tablets.
 
 ## Visualize a aplicação, através do Vercel:
-[site: < Dev. Recém Nascido >](https://dev-recem-nascido.vercel.app/#)
+[Site: < Dev. Recém Nascido >](https://dev-recem-nascido.vercel.app/#)
