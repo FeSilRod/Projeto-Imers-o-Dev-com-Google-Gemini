@@ -1,25 +1,26 @@
-# Projeto-Imers-o-Dev-com-Google-Gemini
-A Imersão Dev com Gemini, trouxe conteúdos e aprendizados sobre: HTML, CSS e JavaScript. Onde foi desenvolvido um projeto do zero com a ajuda do Gemini, a Inteligência Artificial do Google!
+# Projeto-Imersão-Dev-com-Google-Gemini
+  A Imersão Dev com Gemini, trouxe conteúdos e aprendizados sobre: HTML, CSS e JavaScript. Onde foi desenvolvido um projeto do zero com a ajuda do Gemini, a Inteligência Artificial do Google!
 
-Além disso, fomos desafiados a criar um projeto baseado no que aprendemos durante as 5 aulas da imersão. E esse repositório, contém o resultado do meu projeto!
+  Além disso, fomos desafiados a criar um projeto baseado no que aprendemos durante as 5 aulas da imersão. E esse repositório, contém o resultado do meu projeto!
 
-Aprendemos muitos dos fundamentos básicos de HTML, CSS e JavaScript, e eles foram a base para o meu projeto, assim como era requisitado pelas regras de participação na disputa pela premiação.
+  Aprendemos muitos dos fundamentos básicos de HTML, CSS e JavaScript, e eles foram a base para o meu projeto, assim como era requisitado pelas regras de participação na disputa pela premiação.
 
-Para além dos conteúdos incríveis das aulas, o Google Gemini foi fundamental para que eu pudesse aprender novos recursos das linguagens, assim possibilitando que eu chegasse onde queria com o meu projeto. Dentre esses novos aprendizados, estão:
+  Para além dos conteúdos incríveis das aulas, o Google Gemini foi fundamental para que eu pudesse aprender novos recursos das linguagens, assim possibilitando que eu chegasse onde queria com o meu projeto. Dentre esses novos aprendizados, estão:
 
-- **Responsividade**.
-- - **Menu de Navegação**.
-  - - **Listas**.
-    - - - - **Links que redirecionam para conteúdos na mesma página**.
-        - - - - - **Função: showContent**.
-            - - - - - - **tag <nav>**.
-                      - - - - - - - **Declaração de variável constante**.
-                                  - - - - - - - - **querySelector**.
-                                                - - - - - - - - **.remove()**.
-                                                              - - - - - - - - **.createElement**.
-                                                                            - - - - - - - - **.className**.
-                                                                                          - - - - - - - - **.appendChild**.
-MAIS DETALHES DO MEU PROJETO:
+- **Responsividade**;
+- **Menu de Navegação**;
+- **Listas**;
+- **Links que redirecionam para conteúdos na mesma página**;
+- **Função: showContent**;
+- **tag <nav>**;
+- **Declaração de variável constante**;
+- **querySelector**;
+- **.remove()**;
+- **.createElement**;
+- **.className**;
+- **.appendChild**.
+
+# MAIS DETALHES DO MEU PROJETO:
                                                                                                         
 # Site/aplicação: Dev. Recém Nascido
 
