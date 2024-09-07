@@ -3,7 +3,7 @@
 
   Além disso, fomos desafiados a criar um projeto baseado no que aprendemos durante as 5 aulas da imersão. E esse repositório, contém o resultado do meu projeto!
 
-  Aprendemos muitos dos fundamentos básicos de HTML, CSS e JavaScript, e eles foram a base para o meu projeto, assim como era requisitado pelas regras de participação na disputa pela premiação.
+  Aprendemos muitos dos fundamentos básicos de HTML, CSS e JavaScript, e eles foram a base para o meu projeto, assim como era requisitado pelas regras de participação na disputa pela premiação. Até por isso, procurei o máximo possível, usar somente o que foi visto durante as 5 aulas.
 
   Para além dos conteúdos incríveis das aulas, o Google Gemini foi fundamental para que eu pudesse aprender novos recursos das linguagens, assim possibilitando que eu chegasse onde queria com o meu projeto. Dentre esses novos aprendizados, estão:
 
@@ -27,6 +27,11 @@
 **Dev. Recém Nascido** é um projeto que fornece uma introdução interativa para iniciantes no desenvolvimento web. O site é uma plataforma educacional básica que oferece informações sobre diversos tópicos importantes no início da jornada de programação.
 
 Assim como o subtítulo do site sugere, o objetivo principal da aplicação é guiar de forma fácil e prática novos programadores aos melhores conteúdos e dicas educacionais, relacionados aos primeiros passos no mundo da programação e desenvolvimento web, com suas principais linguagens de programação, fazendo assim uma relação com a imersão dev com gemini e inclusive podendo ajudar outros alunos que participaram. Principalmente indicando fontes e cursos gratuitos, para promover a inclusão e acessibilidade, acabando com qualquer tipo de barreira finaceira que possa existir nesse início de carreira. Pelo menos, no que diz respeito à aprendizado online, de qualidade, com certificado e a custo zero, assim como a Alura vem fazendo através de suas espetaculares imersões gratuitas.
+Fala pessoal!
+
+# Usabilidade e Design:
+
+O site é bem simples e intuitivo. Fácil de ser acessado por qualquer tipo de usuário. Também conta com cores semelhantes às de softwares utilizados para escrever códigos de programação (IDEs), justamente para ser um ambiente confortável e comum para os usuários.
 
 ## Estrutura do Projeto
 
